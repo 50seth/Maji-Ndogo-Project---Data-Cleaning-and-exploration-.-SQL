@@ -12,7 +12,6 @@ Data Sources
 
 The datasets used include:
 
-Water iServices Dataset: Information on water distribution, service requests, and resolution times.
 
 Maji Ndogo Dataset: Data on small-scale water vendors, pricing, and supply challenges.
 
